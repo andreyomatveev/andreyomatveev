@@ -4,4 +4,4 @@ Andrey O. Matveev is the author of the research monographs:
 
 [**Farey Sequences: Duality and Maps Between Subsequences**](https://doi.org/10.1515/9783110547665). Berlin, Boston: De Gruyter, 2017, and 
 
-[**Symmetric Cycles**](https://www.routledge.com/Symmetric-Cycles/Matveev/p/book/9789814968812). Singapore: Jenny Stanford Publishing, 2023. [**FLYER**](https://github.com/andreyomatveev/andreyomatveev/blob/main/FLYER-SymmetricCycles-by-Andrey-O.-Matveev-Oct.-06-2023.pdf)
+[**Symmetric Cycles**](https://doi.org/10.1201/9781003438328). Singapore: Jenny Stanford Publishing, 2023. [**FLYER**](https://github.com/andreyomatveev/andreyomatveev/blob/main/FLYER-SymmetricCycles-by-Andrey-O.-Matveev-Oct.-06-2023.pdf)
