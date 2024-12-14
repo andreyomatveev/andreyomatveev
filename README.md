@@ -1,6 +1,6 @@
 *Andrey O. Matveev* is the author of the research monographs: 
 
-[**Pattern Recognition on Oriented Matroids**](https://doi.org/10.1515/9783110531145). Berlin, Boston: *De Gruyter*, 2017,  
+[**Pattern Recognition on Oriented Matroids**](https://doi.org/10.1515/9783110531145). Berlin, Boston: *De Gruyter*, 2017, [**PRESENTATION**](https://blog.degruyter.com/committee-theory-finding-solutions-problems-no-solution/) [**SOURCE**](https://www.ams.org/journals/bull/1965-71-05/S0002-9904-1965-11360-X/)  
 
 [**Farey Sequences: Duality and Maps Between Subsequences**](https://doi.org/10.1515/9783110547665). Berlin, Boston: *De Gruyter*, 2017, and 
 
