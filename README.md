@@ -11,4 +11,4 @@ Please see the full list of [***repositories***](https://github.com/andreyomatve
 
 [**Sweet memory: 2001**](https://github.com/andreyomatveev/andreyomatveev/blob/main/Matveev-CCNP-2001.pdf)
 
-[**Sweet memory: 2010**](https://github.com/andreyomatveev/andreyomatveev/blob/main/Matveev-JavaProgrammer-2010.pdf)
+[**Sweet memory: 2010**](https://github.com/andreyomatveev/andreyomatveev/blob/main/Matveev-SCJP-2010.pdf)
